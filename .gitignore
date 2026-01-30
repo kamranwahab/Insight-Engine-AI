@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Heavy Data
+storage/
+data/
+venv/
+.vscode/
+
+# Secrets (NEVER UPLOAD)
+.env
+
+# Heavy Data
+data/
+storage/
+
+# Python Junk
+__pycache__/
+*.pyc
+venv/
+.venv/
